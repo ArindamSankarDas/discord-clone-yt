@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+Click here to check out the <a href="https://discord-clone-yt-2291e.firebaseapp.com/">deployed site</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
